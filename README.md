@@ -1,12 +1,8 @@
-## Latent Dirichlet Allocation (Gizli Dirichlet Dağılımı)
+## Latent Dirichlet Allocation (LDA)
 
-LDA algoritmasını kullanarak metin verileri üzerinde konu modellemesi gerçekleştirin.
+Perform topic modeling on text data using the LDA algorithm.
 
-- Metni önceden işleyin
-- LDA modelini eğitin ve ayarlayın
-- Potansiyel konuları keşfedin
-- LDA'nızı kullanarak yeni metnin konusunu tahmin edin
-
-Alıştırmaya başlamak için, `jupyter notebook` içinde `03-LDA.ipynb` dosyasını açın ve talimatları izleyin.
-
-🚀 Sıra sizde!
+- Pre-process the text
+- Train and fine-tune the LDA model
+- Discover potential topics
+- Predict the topic of the new text using your LDA
